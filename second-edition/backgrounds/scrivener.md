@@ -1,46 +1,46 @@
 ---
-title: Scrivener
+title: Escriba
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Scrivener
+# Escriba
 
-> You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
+> Copias textos antiguos e iluminas manuscritos, grabando las voces de los ingeniosos, los grandes y los poderosos. Demostrarás que la pluma es más poderosa que la espada.
 
-## Names
+## Nombres
 
 Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Quill & Ink
-- Blank Book
-- Awl (d6)
-- Badge (_petty_)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Pluma para escribir y tinta
+- Libro en blanco
+- Punzón (1d6)
+- Insignia (_Insignificante_)
 
-## What work did you keep for yourself? Roll 1d6:
+## ¿Qué obras te has guardado? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.                                                            |
-| **2** | **The Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.                                                                 |
-| **3** | **A Treatise on the Abyss**. A nondescript black book. An in-depth, largely theoretical text describing the **Roots**, as well as information about the location of a nearby **Gate**.                  |
-| **4** | **The Star Waltz**. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers. |
-| **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
+| **1** | **Lenguas Salvajes**. Un conjunto de pergaminos encuadernados en cuero. Una obra seminal que cataloga los lenguajes ocultos de las bestias y cómo entenderlos |
+| **2** | **Sinfonía Silenciosa**. Encuadernada en una envoltura fluorescente. Es muy rara, cataloga los signos sutiles utilizados por aquellos que emplean la magia de invisibilidad. |
+| **3** | **Tratado sobre el Abismo**. Un libro negro sin descripción. Un texto profundo y en gran parte teórico que describe las Raíces, así como información sobre la ubicación exacta de un **Portal** cercano. |
+| **4** | **Vals de las Estrellas**. Encuadernado con una fina cubierta de cuero y un cierre en forma de cometa. Detallados mapas astronómicos, movimientos celestes y festividades estelares. Muy valorado (100 mo) por su utilidad para los viajeros. |
+| **5** | **La catedral y el Pabellón**. Grandes pliegos con encuadernación rústica cubierto de vitela. Es realmente un libro de cuentos infantiles, pero los márgenes contienen información sobre viajar, comer y dormir en la floresta nubosa. |
+| **6** | **Jardín de Cristal**. Encuadernado en la cubierta de otro libro. Una obra herética, describe los materiales, procedimientos y ubicaciones óptimas para abrir un **Portal**. |
 
-## How do you transcribe sensitive information? Roll 1d6:
+## ¿Qué utilizas cuando necesitas compartir información confidencial? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
-| **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
-| **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
-| **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
+| **1** | **Tinta contra mentirijillas** | Brilla cuando se usa para escribir afirmaciones verdaderas, pero se desvanece si se usa para escribir falsedades. |
+| **2** | **Piedras encriptadoras** | Un par de piedras negras afiladas. Cada una descifra cualquier mensaje escrito por la otra. |
+| **3** | **Pluma siemprepinta** | Una pluma que puede escribir sobre cualquier superficie, pero sigue necesitando tinta (_Insignificante_). |
+| **4** | **Vial susurrador** | Susurra un mensaje dentro del vial, y este lo reproducirá a quien lo abra a continuación. |
+| **5** | **Lente sanguínea** | Extrae sangre de un objetivo sin que este lo sepa. Una gota robada, colocada en el ojo, revela recuerdos del objetivo del día anterior. |
+| **6** | **Páginas reveladoras** | Un pergamino blanco. Quien lo despliega ve cómo sus acciones del día se revelan lentamente escritas en una caligrafía apretada. |

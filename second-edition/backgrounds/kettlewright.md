@@ -1,47 +1,46 @@
 ---
-title: Kettlewright
+title: Calderero
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Kettlewright
+# Calderero
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> Se te conoce por el olor a metal fundido y el tintineo de la hojalata. No eres un simple comerciante, sino un artesano del fuego y el metal.
 
-## Names
+## Nombres
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Tenazas
+- Rollo de hojalata
+- Guantes (_Insignificante_)
+- Martillo (1d6)
 
-## What is your trade? Roll 1d6:
+## ¿A qué te dedicas? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | Creas pequeños artilugios para los gremios locales (y no haces demasiadas preguntas al respecto). Tienes 40 mo extra y un cartel de “Se busca” con tu cara. Con tiempo y materiales, puedes abrir casi cualquier puerta o cámara acorazada. |
+| **2** | Te dedicas a vender artículos para el hogar y herramientas varias, pregonando tus productos a los habitantes de los pueblos por todas las regiones. Tienes 20 mo en artículos de la tabla de equipo. Hablas con fluidez el argot de los viajeros. |
+| **3** | Eras un armero militar, antes de que la paz destruyera tu sustento. Tienes un **martillo de fundición** (1d10, _Voluminoso_) y un **yelmo de hojalata** (+1 de Armadura). Con el tiempo y los materiales adecuados, puedes reparar cualquier armadura. |
+| **4** | Vendes artículos raros y de calidad, tanto a monasterios como a nobles. Tienes un **catalejo**, un **collar** (_Insignificante_) valorado en 20 mo y un pergamino de Puerta espejo. Puerta espejo: Conviertes un espejo en una puerta que conduce a otro espejo donde te hayas mirado hoy. |
+| **5** | Ofreces protección, vigilas silenciosamente en busca de amenazas mientras el dinero cambia de mano. Comienzas con +1d4 de PG, y tienes una **espada larga** (1d10, _Voluminosa_) y un **gambesón** (+1 de Armadura). |
+| **6** | Recoges estaño y hierro de los campos de batalla, arrancando dientes de cadáveres aún temblorosos. Tienes un **burro** joven (+4 espacios, _lento_), una **ballesta** (1d8 daño, _Voluminosa_) y una **sierra** (1d6). |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## ¿Cuál de tus pertenencias siempre te saca de problemas? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-
+| **1** | **Huevos de fuego** | Seis pequeñas bolitas hechas de sal marina, madera y polvo de loza. Explotan a baja temperatura (1d8, _Estallido_), pero las llamas se disipan rápidamente. |
+| **2** | **Alquitrán** | Versátil: tanto pegajoso como altamente inflamable (3 usos). |
+| **3** | **Botas con pinchos** | Romper cabezas (1d8) es tan fácil como quebrar hielo o estiercol. Viajar es un poco más _lento_, pero es más fácil. |
+| **4** | **Pasta moldeable** | Sella cualquier agujero del tamaño de un puño (3 usos). |
+| **5** | **Fuegos artificiales** | Un espectáculo deslumbrante aunque peligroso. Suficiente material explosivo como para volarse un dedo o tres (aún quedan 2 usos). |
+| **6** | **Gato carroñero** | Un familiar inteligente, lo suficientemente pequeño como para esconderlo en tu mochila (_Voluminosa_), pero lo suficientemente fuerte como para ahuyentar a depredadores más pequeños. Consume una ración de carne al día. |

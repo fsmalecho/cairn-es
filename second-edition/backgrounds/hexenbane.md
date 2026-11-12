@@ -1,46 +1,46 @@
 ---
-title: Hexenbane
+title: Erradicador de Brujería
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Hexenbane
+# Erradicador de Brujería
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> Brujería Eres un mero dígito en la infalible mano de la justicia. Vas donde otros temen pisar, integro y tenaz.
 
-## Names
+## Nombres
 
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Uniforme de tu Orden (_Insignificante_)
+- Tinturas benditas
+- Cuchillo de plata (1d6)
+- Ballesta (1d8, _Voluminosa_)
 
-## To which order do you belong? Roll 1d6:
+## ¿A qué Orden perteneces? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **1** | **Orden de las Encrucijadas**. Tienes un **buscador de Líneas Ley de bolsillo**. Apunta hacia las Líneas Ley cercanas y otras fuentes de poder acarno. Si lo pierdes, el castigo es la muerte. |
+| **2** | **Orden de la Estrella Sangrante**. Tienes una **maza de hierro estelar** (1d8). Brilla tenuemente en la oscuridad y se calienta mucho en presencia de brujería. |
+| **3** | **Orden del Sello de Vidrio**. Tienes una espada corta (1d8) y una cota de mallas (Armadura 2, _Voluminosa_). Tienes contactos en casi todos los pueblos (cuanto más rural, mejor) que están dispuestos a proporcionarte ayuda, comida o incluso armas. |
+| **4** | **Orden del Ojo Blanco**. Tienes un **fragmento de cristal del Vacío**. Mira a través de él con un ojo para ver marcas invisibles, criaturas, y otros efectos mágicos. Pierdes la visión de ese ojo durante la siguiente hora (quedas _Exhausto_). |
+| **5** | **Orden de Canaas**. Una vez al día puedes transformarte en lobo. Tienes una **cadena de azogue**. Sin ella, no puedes volver a tu forma original. |
+| **6** | **Orden del Velo Silencioso**. Tienes una **piedra apagafuegos** (2 usos) envuelta en una arpillera. Una vez expuesta al aire, extingue cualquier llama cercana. |
 
-## What was your vow? Roll 1d6:
+## ¿Qué votos hiciste? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+| **1** | **Honestidad**. Elige un tipo de arma (contundente, cortante, etc.). Los ataques contra ti de este tipo tienen Desventaja. Si rompes tu voto de honestidad, pierdes 1d4 de VOL. |
+| **2** | **Pobreza**. Tienes un **Libro de Hechizos** (Desmontar). Solo tu puedes usarlo. Si rompes tu voto de pobreza, explota (1d12 de daño a FUE). Desmontar: Puedes separar y volver a unir cualquier parte de tu cuerpo a voluntad, sin sufrir daño ni dolor. Mantienes el control sobre las partes separadas. Regenera cualquier página rasgada o dañada. |
+| **3** | **Altruismo**. Eres inmune a efectos mágicos como Encantar, Odio, Frenesí, etc. Si rompes tu voto, pierdes 1d6 de VOL. |
+| **4** | **Misericordia**. Elige un tipo de arma (contundente, cortante, etc.). Tus ataques con ese tipo de arma tienen Ventaja. Si rompes tus votos de misericordia, nunca podras usar de nuevo ese tipo de arma. |
+| **5** | **Caridad**. Una vez al día puedes librarte de una **Fatiga**. Si rompes tus votos de caridad, pierdes para siempre un espacio de tu Inventario. |
+| **6** | **Valentía**. Cuando infringes **Daño Crítico** por primera vez, ganas +4 de PG, recuperando tu cantidad previa de PG al final de ese combate. Si rompes tus votos de valentía, mueres. |

@@ -1,47 +1,46 @@
 ---
-title: Beast Handler
+title: Domador de Bestias
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Beast Handler
+# Domador de Bestias
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> Solo tú puedes caminar entre las criaturas salvajes, sin miedo y al mando para ordenarles qué hacer. Compartes una conexión con los animales con la que otros solo pueden soñar... ¡Siempre que no te conviertas en su comida!
 
-## Names
+## Nombres
 
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Látigo de cuero (1d6)
+- Dardos somníferos (Salvación de FUE o cae dormido, 6 usos)
+- Señuelo
+- Soga (7.5 metros)
 
-## What creature is your specialty? Roll 1d6:
+## ¿Qué criaturas son tu especialidad? Tira 1d6:
 
-| **d6** | **Specialty** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+| **1** | **Arácnidos** | Tienes una vara de llama rápida y una lata de aceite (6 usos). Puede destruir un gran nido de arañas en segundos. |
+| **2** | **Felinos** | Tienes un saco de hipérico. Su olor puede calmar y dominar incluso a los gatos más grandes. |
+| **3** | **Caninos** | Tienes una corona de acónito y una red grande. También, es efictiva contra hombres lobo. |
+| **4** | **Aves** | Tienes un silbato de trino (3 cargas). Puede imitar el canto de cualquier pájaro e incluso utilizarse para enviar mensajes sencillos. **Recarga**: Alimenta a una cría de pájaro como lo haría su madre y luego sopla de nuevo. |
+| **5** | **Roedores** | Tienes una flauta de hueso que emite un sonido agudo que sólo pueden oír los roedores. Mientras toques, te seguirán, incluso hasta la muerte. |
+| **6** | **Serpientes** | Tienes una piedra calefactora que genera un calor irresistible y, además, un vial de antitoxina (2 usos). |
 
+## ¿Qué capacidad única te ofrecen a ti las criaturas salvajes? Tira 1d6:
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
-
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| **1** | Hay más mundo del que alcanzamos a ver. Con un poco de concentración y guardando silencio, puedes tomar prestados los sentidos de una criatura de tu especialidad que esté cerca de ti y percibir a través de ellos. |
+| **2** | El comportamiento de las bestias dice más de lo que podemos percibir. Cuando observas a una bestia de tu especialidad, obtienes información sobre patrones climáticos y desastres inminentes. |
+| **3** | El instinto de caza es muy poderoso, siempre prevalece. Percibes cuando los depredadores, incluso los que no son de tu especialidad, están cerca. |
+| **4** | Hay lazos muy íntimos, que sin saber, te unen a tierras desconocidas. Tu probabilidad de perderte en un terreno dominado por las bestias de tu especialidad se reduce un paso (p. ej.: 4 en 6 se reduce a 3 en 6). |
+| **5** | La melodía de la naturaleza puede escucharse si sintonizas con su ritmo. Cuando estás rodeado de criaturas de tu especialidad, ellas pueden alertarte con antelación de peligros acechantes. |
+| **6** | La supervivencia no es más que la capacidad para adaptarse a la situación. Una vez al día, puedes adoptar una característica simple de una criatura de tu especialidad (dedos palmeados, visión nocturna, etc.). Añade una **Fatiga** tras cada uso. |

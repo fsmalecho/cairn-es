@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print Copies
-parent: Second Edition
+parent: Segunda edición
 nav_order: 5
 ---
 

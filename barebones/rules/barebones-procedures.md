@@ -38,7 +38,7 @@ When the party:
 
 | **d6** | **Event** | **Description** |
 | :--- | :--- | :--- |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
+| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reacciones).)    |
 | **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
 | **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
 | **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |

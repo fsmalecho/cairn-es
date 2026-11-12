@@ -2,7 +2,7 @@
 layout: default
 title: Bonds and Omens
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda edición
 ---
 
 # Bonds and Omens

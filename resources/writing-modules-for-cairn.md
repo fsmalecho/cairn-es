@@ -16,7 +16,7 @@ Writing adventures for Cairn is very similar to writing for other OSR systems, w
 ## Turns and the Dungeon Exploration Cycle
 
 Exploring dungeons in Cairn is much like any other old school system, with extant procedures and a distinct culture of play. But there are a few differences I felt worth pointing out here.  
-First, make sure you've thoroughly read through [the rules](https://cairnrpg.com/second-edition/players-guide/procedures/#dungeon-exploration) and procedures for dungeon exploration in Cairn.
+First, make sure you've thoroughly read through [the rules](https://cairnrpg.com/second-edition/players-guide/procedures/#exploración-en-mazmorras) and procedures for dungeon exploration in Cairn.
 
 **Turns** in Cairn are when a character moves (around 40ft) and performs one action. Turns happen contemporaneously, and can stack. When describing how long it takes to _do_ something on a character's turn, think in terms of _effort_, not time.
 

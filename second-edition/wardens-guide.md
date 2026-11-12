@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Warden's Guide
-parent: Second Edition
+parent: Segunda edición
 has_children: true
 nav_order: 3
 has_toc: false

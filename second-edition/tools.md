@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-parent: Second Edition
+parent: Segunda edición
 has_children: true
 nav_order: 4
 ---

@@ -1,46 +1,45 @@
 ---
-title: Mountebank
+title: Charlatán
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Mountebank
+# Charlatán
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> Tu ingenio es tu arma más afilada, una fachada tu escudo más fuerte. Pero cuando fallas, lo pierdes todo.
 
-## Names
+## Nombres
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Carreta (+4 espacios, _Voluminosa_ cuando se empuja)
+- Sombrero fino (_Insignificante_)
+- Espada de bastón (1d6)
 
-## How was your fraud exposed? Roll 1d6:
+## ¿Cómo quedaron expuestos tus engaños? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+| **1** | Tus "pacientes" dijeron que se recuperaron milagrosamente, a pesar de tu falta de conocimientos médicos. Tienes **vendajes** (3 usos) y una habilidad innata para curar. |
+| **2** | Tras seducir a una persona adinerada, su familia contrató a una banda de criminales para capturarte. Has escapado y necesitas ocultarte. Tienes una **crema embellecedora** (2 usos). Úsala para ganar una belleza irresistible durante las próximas 12 horas. |
+| **3** | Solías vender profecías falsas, pero cuando una de ellas resultó ser cierta, atrajiste atención no deseada. Tira en la tabla de **Presagios**, pero no le digas a nadie el resultado que obtengas. Tienes un **cuchillo** ocultable (1d6, _Insignificante_). |
+| **4** | Tu última hazaña destruyó un artefacto invaluable y lesionó a una docena de transeúntes. Tienes un **uniforme de capitán** (_Insignificante_), una **espada ceremonial** (_Inofensiva_, 60 mo) y un **ramo de flores**. |
+| **5** | Fuiste maldecido por una bruja del seto por engañar a algunos aldeanos santurrones. La magia actúa de manera impredecible en tus manos (Salvación de VOL para evitar el caos). Si eres el objetivo de la magia, lo mismo se aplica a quien la maneje. |
+| **6** | Tus “sesiones espiritistas” eran en realidad un engaño que involucraba un **Libro de Hechizos** de Ilusión auditiva hábilmente oculto. Inevitablemente, un cliente descubrió tu secreto. Tienes el **Libro de Hechizos** y un fajo de pañuelos. Ilusión auditiva: Creas sonidos ilusorios que parecen provenir de una dirección a tu elección. Produce sonidos aleatorios y ocasionalmente inoportunos a lo largo del día. |
 
-## What keepsake could always identify you? Roll 1d6:
+## ¿Qué objeto entre tus pertenencias puede delatarte? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+| **1** | **Emblema real** | Nacido en la realeza, elegiste una vida diferente. El escudo te abre muchas puertas; pero, al mismo tiempo alerta a tu familia sobre tu paradero. |
+| **2** | **Aceite milagroso** | Una mezcla maloliente y resbaladiza (2 usos). |
+| **3** | **Jabón de cirujano** | Un bloque de lejía y ceniza que hace que la piel se vuelva temporalmente transparente, revela la anatomía interna de la persona a la que se aplica (4 usos). |
+| **4** | **Polvo de cabra** | Hecho con placenta obtenida del alumbramiento de un cabrito. Cura temporalmente cualquier enfermedad. Los síntomas regresan a las pocas horas. |
+| **5** | **Zafiro maldito** | Vale 200 mo. Regresa a tu bolsillo poco después de gastar lo que te hayan pagado por él. No te puedes deshacer de él. |
+| **6** | **Tatuaje alquímico** | Tienes tatuado un perro, gato o pájaro que puede abandonar tu cuerpo cuando se lo pidas. Sigue tus órdenes lo mejor que puede y te transmitirte las heridas que recibe haciéndote perder puntos de FUE (_Insignificante_). |

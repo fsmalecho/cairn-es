@@ -1,46 +1,45 @@
 ---
-title: Fungal Forager
+title: Recolector Fúngico
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Fungal Forager
+# Recolector Fúngico
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> Sigues los susurros de la tierra profunda, el pulso rítmico del bosque de micelio que crece bajo la superficie. La oscuridad no te causa terror. Además, te encantan las setas.
 
-## Names
+## Nombres
 
 Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Pala de mano (1d6)
+- Yelmo con vela (+1 de Armadura, luz tenue, 6 usos)
+- Soga (7.5 metros)
+- Cubo de metal
 
-## What strange fungus did you discover? Roll 1d6:
+## ¿Qué hongo extraño has descubierto? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
- 
+| **1** | **Trompeta chillona**. Cuando se expone a la luz, grita tan fuerte que todos los ataques cercanos (incluidos los tuyos) quedan en Desventaja (2 usos). |
+| **2** | **Seta antorcha**. Cuando se aplasta, crea una luz azul fría durante un breve periodo de tiempo. (2 usos). |
+| **3** | **Trufa asesina**. Amarga, altamente tóxica y muy rara (vale 50 mo entre los asesinos). Ilegal en casi todos lados (1 uso). |
+| **4** | **Píleo infernal**. La exposición directa a su aroma provoca náuseas intensas, incluso vómitos. Si se usa en un lugar cerrado, los presentes huyen del sitio. Contenido en una botella de cristal (1 uso). |
+| **5** | **Brotecopa**. Ingiérelo para reducirte al tamaño de un ratón (tus pertenencias permanecen del mismo tamaño). Recuperas tu tamaño original en una hora, pero de manera intermitente (1 uso). |
+| **6** | **Raízflor**. Un hongo blanco que solo se encuentra en cadáveres profundamente enterrados. Ingiérelo para restaurar 1d6 VOL. Soñarás con los muertos y sus historias (1 uso). |
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+## ¿Qué te mantiene en tus cabales, incluso en la más absoluta oscuridad? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+| **1** | **Caracol brillante** | Emite una bioluminiscente tenue. Se alimenta con una ración cada dos días. |
+| **2** | **Chal de seda de polilla** | Una manta resistente a la intemperie, también puede apagar un fuego sin sufrir daños. |
+| **3** | **Flor de leche** | Un estimulante ligero. Masticarlo te hace inmune al Pánico durante la siguiente hora (3 usos). |
+| **4** | **Luxbrújula** | Vibra suavemente a medida que se acerca al sol. Eventualmente, el ruido se vuelve ensordecedor. |
+| **5** | **Tejido de pereza** | Un tejido duro y resistente a la intemperie, útil para colgarse de los árboles. Cuando tu personaje está dentro, de él, suma +1 de Armadura. |
+| **6** | **Grasa minera** | Ideal para desencajar una gema, una herramienta o una extremidad de una grieta estrecha. Altamente explosivo (3 usos). |

@@ -76,7 +76,7 @@ Dog-sized herbivores, with short, stubby legs. They are blind, and have antler-l
 - **Entrances**: The party arrives at the [C1. Campsite](#c1-campsite), sheltered beneath a rock ledge. The [C2. Cave Entrance](#c2-cave-entrance) is downhill from the camp and not immediately visible from **C1**.
 - **Light**: No natural or artificial light exists in the caves.
 - **Methane**: Area [C3. Tube Worm Hive](#c3-tube-worm-hive) has an exposed methane vent. The air is highly flammable, and extended exposure can cause headaches and nausea (victims become deprived). The gas is odorless, but exposed flames flicker and turn blue in proximity to the vent.
-- **Dungeon Events**: On an encounter result, the party should encounter one of the three Blood Olms from [C9. Blood Olm Lair](#c9-blood-olm-lair). Roll on the [Reaction table](/second-edition/players-guide/core-rules/#reactions). 
+- **Dungeon Events**: On an encounter result, the party should encounter one of the three Blood Olms from [C9. Blood Olm Lair](#c9-blood-olm-lair). Roll on the [Reaction table](/second-edition/players-guide/core-rules/#reacciones). 
 
 ## C1. Campsite
 The **air** smells strongly of rotting flesh. Two wooden **crates** sit next to a burnt-out **campfire**, and a small **tunnel** is dug into the earth close by. Four **blankets** are laid out at the East end of camp. 
@@ -172,7 +172,7 @@ Freshly-carved mud **walls**, wet with condensation. Corpses and **carnage** are
 	- The Mud Sieve was used here by the expedition to block off an underground river, killing the tree’s water supply.  If damaged, the dam will burst in 1d4 minutes, filling the cavern (DEX save to swim to safety). 
 - **Carnage**: Remains of a half-dozen Olms, Tube Worms, and bats.
 - **Blood Olms**: At most three, depending on how the party navigated the caves.
-	- If the PCs entered through [C1. Campsite](#c1-campsite) or created a lot of noise, the Blood Olms are awake and on guard. _Roll on the [reaction table](/second-edition/players-guide/core-rules/#reactions)_. 
+	- If the PCs entered through [C1. Campsite](#c1-campsite) or created a lot of noise, the Blood Olms are awake and on guard. _Roll on the [reaction table](/second-edition/players-guide/core-rules/#reacciones)_. 
 	- If the PCs entered through [C2. Cave Entrance](#c2-cave-entrance) and traversed the cave complex with care, the creatures are asleep.
 	- The Blood Olms will not allow the PCs to flood their lair, and will attack anyone who tries to destroy the dam.
   
