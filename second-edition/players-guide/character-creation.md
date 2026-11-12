@@ -1,191 +1,190 @@
 ---
 layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
+title: Creación de personaje
+parent: Guía del jugador
+grand_parent: Segunda edición
 ---
 
-# Character Creation 
+# Creación de personaje
 
-## Roll or choose a Background
+## Tira o elige un trasfondo
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- Tira 1d20 o elige un trasfondo en la tabla de [Trasfondos](#trasfondos) y pasa a la página indicada para continuar.
+- Luego, elige un nombre de la lista propuesta. Escribe en tu hoja de personaje tu equipo inicial. Consulta [Inventario](#inventario) y [Espacios de inventario](#espacios-de-inventario).
+- Tira en cada tabla que se incluye en la página del trasfondo elegido. Registra tus resultados en tu hoja de personaje. Es posible que algunas veces se te pida hacer alguna tirada en las tablas del [Mercado](/second-edition/players-guide/marketplace).
 
-## Backgrounds
+## Trasfondos
 
-| **d20** | **Background**                                                                  |        |                                                                             |
-| :------- | :------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------------------------- |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **d20** | **Trasfondo** | | |
+| :------- | :------- | :------ | :------- |
+| **1** | [Barbero Cirujano](/second-edition/backgrounds/barber-surgeon) | **11** | [Guardia Fronterizo](/second-edition/backgrounds/marchguard) |
+| **2** | [Calderero](/second-edition/backgrounds/kettlewright) | **12** | [Huérfano](/second-edition/backgrounds/foundling) |
+| **3** | [Campero](/second-edition/backgrounds/fieldwarden) | **13** | [Jinete Escolta](/second-edition/backgrounds/outrider) |
+| **4** | [Charlatán](/second-edition/backgrounds/mountebank) | **14** | [Juglar](/second-edition/backgrounds/jongleur) |
+| **5** | [Cortabolsas](/second-edition/backgrounds/cutpurse) | **15** | [Merodeador](/second-edition/backgrounds/prowler) |
+| **6** | [Domador de Bestias](/second-edition/backgrounds/beast-handler) | **16** | [Naturalista](/second-edition/backgrounds/greenwise) |
+| **7** | [Erradicador de Brujería](/second-edition/backgrounds/hexenbane) | **17** | [Orífice](/second-edition/backgrounds/aurifex) |
+| **8** | [Escriba](/second-edition/backgrounds/scrivener) | **18** | [Recolector Fúngico](/second-edition/backgrounds/fungal-forager) |
+| **9** | [Flechaveloz](/second-edition/backgrounds/fletchwind) | **19** | [Semibruja](/second-edition/backgrounds/half-witch) |
+| **10** | [Guardahuesos](/second-edition/backgrounds/bonekeeper) | **20** | [Surcador de Arroyos](/second-edition/backgrounds/rill-runner) |
 
-## Attributes, Hit Protection, and Traits 
+## Características, protección contra golpe (PG) y rasgos
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- Tira para determinar los **Puntos de Características** y la **PG**.
+- Tira los [Rasgos](#rasgos-del-personaje-d10) y los [Vínculos](#vínculos) del personaje.
+- Finalmente, tira para determinar la **edad** (2d20+10). Si eres el personaje _más joven_, tira en la tabla de [Presagios](#presagios). Lee en voz alta a los demás jugadores de la partida el resultado obtenido. La Guardiana deberá incorporar el presagio dentro de la partida como considere mejor.
 
-## Attributes
+## Características
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- Los personajes jugables (PJ) tienen tres Características: **Fuerza (FUE)**, **Destreza (DES)** y **Voluntad (VOL)**.
+- Cuando creas tu personaje tira 3d6 por cada una de las **Características**, en orden. Luego, puedes intercambiar dos de los resultados obtenidos.
+- Los Puntos de Características no describen lo que es tu personaje. Un PJ con una puntuación de FUE baja no se considera un debilucho, ya que puede intentar levantar algo pesado o sobrevivir a alguna pelea. Simplemente el riesgo de fallar es mayor.
 
-## Hit Protection
+## Protección contra golpe
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- Tira 1d6 para determinar el valor inicial de la **Protección contra golpe** (PG) del personaje, la cual refleja su capacidad de evitar el daño en combate. La PG no representa la salud o fortaleza de un personaje, ni es algo que se pierda durante mucho tiempo (consulta [Curación y recuperación](/second-edition/players-guide/core-rules#curación-y-recuperación)).
+- Si en un ataque la PG de un personaje se reduce exactamente a cero, deberá consultarse la tabla de [**Cicatrices**](/second-edition/players-guide/core-rules#cicatrices).
 
-## Inventory
+## Inventario
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- El personaje tiene un total de diez espacios de Inventario, aunque solo puede cargar por sí mismo cuatro objetos sin ayuda de alguna bolsa, saco, mochila, caballo, carreta, etc.
+- Cada personaje comienza con una **mochila** con seis espacios de Inventario o **Fatiga**. Las carretas (que deben ser empujadas con ambas manos), caballos o mulas pueden incrementar la capacidad del Inventario. También se pueden contratar **seguidores** para que carguen equipo.
+- El Inventario es abstracto y depende únicamente de la ficción, tal como la defina la Guardiana. Cualquier persona que tenga su Inventario lleno (con diez espacios ocupados) tendrá su PG reducida a cero. Un personaje no puede cargar más objetos de los que permita su Inventario.
 
-### Inventory Slots
+### Espacios de inventario
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+- La mayoría de los objetos ocupan un espacio, a menos que se diga lo contrario.
+- Los objetos _Insignificantes_ no ocupan espacio de Inventario, los _Voluminosos_ ocupan **dos** espacios.
+- Una bolsa de monedas con una cantidad menor a 100 mo se considera un objeto _Insignificante_ y no ocupa ningún espacio en el Inventario.
 
-## Character Traits (d10)
+## Rasgos del personaje (d10)
 
-### Physique
+### Rasgos físicos
 
-| **d10** | **Physique** | **d10** | **Physique** |
+| **d10** | **Físico** | **d10** | **Físico** |
 | :--- | :--- | :--- | :--- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+| **1** | Atlético | **6** | Flácido |
+| **2** | Bajo | **7** | Gordo |
+| **3** | Enorme | **8** | Larguirucho |
+| **4** | Escuálido | **9** | Musculoso |
+| **5** | Escultural | **10** | Robusto |
 
-### Skin
+### Rasgos de piel
 
-| **d10** | **Skin** | **d10** | **Skin** |
+| **d10** | **Piel** | **d10** | **Piel** |
 | :--- | :--- | :--- | :--- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | Bronceada | **6** | Envejecida |
+| **2** | Con alguna mancha | **7** | Grasosa |
+| **3** | Con cicatrices | **8** | Rosácea |
+| **4** | Con marca de nacimiento | **9** | Tatuada |
+| **5** | Dedos palmeados | **10** | Tersa |
 
-### Hair
+### Rasgos de cabello
 
-| **d10** | **Hair** | **d10** | **Hair** |
+| **d10** | **Cabello** | **d10** | **Cabello** |
 | :--- | :--- | :--- | :--- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+| **1** | Calvo | **6** | Escaso |
+| **2** | Encrespado | **7** | Rizado |
+| **3** | Graso | **8** | Sucio |
+| **4** | Largo | **9** | Suntuoso |
+| **5** | Ondulado | **10** | Trenzado |
 
-### Face
+### Rasgos de rostro
 
-| **d10** | **Face** | **d10** | **Face** |
+| **d10** | **Rostro** | **d10** | **Rostro** |
 | :--- | :--- | :--- | :--- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+| **1** | Afilado | **6** | Desfigurado |
+| **2** | Alargado | **7** | Huesudo |
+| **3** | Cincelado | **8** | Pálido |
+| **4** | Cuadrado | **9** | Perfecto |
+| **5** | De mejillas hundidas | **10** | Ratonil |
 
-### Speech
+### Rasgos de voz
 
-| **d10** | **Speech** | **d10** | **Speech** |
+| **d10** | **Voz** | **d10** | **Voz** |
 | :--- | :--- | :--- | :--- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | Cavernosa | **6** | Formal |
+| **2** | Clara | **7** | Monótona |
+| **3** | Directa | **8** | Resonante |
+| **4** | Enigmática | **9** | Susurrante |
+| **5** | Estridente | **10** | Tartamuda |
 
-### Clothing
+### Rasgos de vestimenta
 
-| **d10** | **Clothing** | **d10** | **Clothing** |
+| **d10** | **Vestimenta** | **d10** | **Vestimenta** |
 | :--- | :--- | :--- | :--- |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | Anticuada | **6** | Elegante |
+| **2** | Asquerosa | **7** | Ensangrentada |
+| **3** | De otro lugar | **8** | Maloliente |
+| **4** | Desaliñada | **9** | Manchada |
+| **5** | Deshilachada | **10** | De uniforme |
 
-### Virtue
+### Rasgos de virtud
 
-| **d10** | **Virtue** | **d10** | **Virtue** |
+| **d10** | **Virtud** | **d10** | **Virtud** |
 | :--- | :--- | :--- | :--- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | Ambicioso | **6** | Precavido |
+| **2** | Disciplinado | **7** | Sereno |
+| **3** | Honorable | **8** | Sociable |
+| **4** | Humilde | **9** | Tolerante |
+| **5** | Misericordioso | **10** | Valiente |
 
-### Vice
+### Rasgos de defecto
 
-| **d10** | **Vice** | **d10** | **Vice** |
+| **d10** | **Defecto** | **d10** | **Defecto** |
 | :--- | :--- | :--- | :--- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | Agresivo | **6** | Mentiroso |
+| **2** | Amargado | **7** | Nervioso |
+| **3** | Avaricioso | **8** | Perezoso |
+| **4** | Codicioso | **9** | Rudo |
+| **5** | Engreído | **10** | Vengativo |
 
-## Bonds
+## Vínculos
 
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **d20** | **Vínculo** |
+| :------- | :------- |
+| **1** | Heredaste una **gema única** (500 mo, fría y quebradiza) de un pariente fallecido hace tiempo. Te la entregaron con una advertencia: si derrochas tus nuevas riquezas, te cobrarán una deuda olvidada hace mucho tiempo. |
+| **2** | Un primo lejano te dejó una pequeña herencia. Tienes **20 mo** y una **extraña brújula** que apunta siempre hacia algo en lo profundo del Bosque. |
+| **3** | Llevas en un **relicario** (_Insignificante_) el **retrato** de un amor pasado que desapareció en el Bosque hace mucho tiempo. De algún modo, sabes que sigue con vida. |
+| **4** | Encontraste un **pequeño prisma de cristal** (_Insignificante_) enterrado en la tierra. Al mirarlo a trasluz, muestra imágenes de un lugar desconocido en lo profundo del Bosque. A veces sientes una presencia devolviéndote la mirada. |
+| **5** | Ayudaste a una náyade en dificultades a salir de un río angosto. A cambio, te entregó un poco de **musgo plateado** (_Insignificante_). Trágalo cerca del agua y la criatura vendrá, una sola vez, a pagar su deuda. |
+| **6** | Has heredado un **diario antiguo**, encuadernado en corteza de árbol. Cada noche, sus páginas se llenan con los acontecimientos del día, escritos con crudeza desde la perspectiva del diario. La escritura es tosca, pero precisa. |
+| **7** | Guardas un secreto familiar que lleva mucho tiempo oculto. Tienes la mitad de una **llave antigua** (_Insignificante_). Dicen que si se une con su otra mitad, abre un **Portal** en cualquier puerta. |
+| **8** | Recibiste una **carta** (_Insignificante_) que presenta pruebas irrefutables de tu verdadera ascendencia, noble entre las hadas. El texto también especifica una fecha y un lugar donde te encontrarás con quien la escribió, en lo profundo del Bosque. |
+| **9** | Tienes una gran deuda con un miembro de la nobleza y llevas un **anillo con su emblema** (_Insignificante_), que sirve como prueba de su protección, así como de tu obligación. |
+| **10** | Has consumido un **espíritu travieso** que causa estragos en tus entrañas y te exige que lo devuelvas a su hogar, en las profundidades del Bosque. Ocupa un espacio en tu Inventario, pero absorbe una **Fatiga** por día. El espíritu te mantiene con vida (por ahora). |
+| **11** | Una vez, un cuentacuentos itinerante te contó historias de un gran tesoro escondido en las profundidades del Bosque. Creíste que no eran más que cuentos para niños, hasta que te dio un **mapa enrollado** (_Insignificante_) marcado con una X. |
+| **12** | En uno de tus viajes, conociste a un cazador moribundo que te pidió que entregaras un mensaje a sus seres queridos. Tienes una **carta** (_Insignificante_), sellada con savia de árbol. Está dirigida únicamente al **Señor del Invierno**. |
+| **13** | Encontraste una bestia herida en el Bosque, pero decidiste no ayudarla. Ahora se te aparece en todas partes, pero solo cuando estás a solas. La bestia se muestra triste, pero no enojada. No caes en Pánico al actuar en solitario. |
+| **14** | Le prometiste a una amistad de tu infancia que le traerías un regalo especial, algo único en el mundo. Tienes una **pulsera** (_Insignificante_) tejida con hilo y flores silvestres. |
+| **15** | Te enfrentaste con una criatura del Bosque y te echó la maldición del **corazón de piedra**. Cada mes que pasa, la piedra se vuelve más pesada, ocupando un espacio más en tu Inventario. Hasta que tu deuda sea saldada, no podrás morir definitivamente. |
+| **16** | Tallaste un **silbato** (_Insignificante_) de una rama perteneciente al **Señor del Roble**. Lo que hiciste no pasó desapercibido. Tampoco puedes deshacerte del silbato. |
+| **17** | La **Brigada del Amanecer** hizo un servicio a tu familia y te entregó como prueba una **flor seca de color rojo sangre** (_Insignificante_). Cuando la flor se torne blanca, se deberá devolver el favor. |
+| **18** | Un día, un juglar visitó tu casa y la llenó de historias y canciones. Se fue un día sin dar más explicación, dejando atrás solo un **laúd en miniatura**. Algo resuena en su interior. |
+| **19** | Se te apareció en sueños un cuervo blanco con una ramita en la boca. Te despertaste con la **ramita** (_Insignificante_) en la mano. Crees que te trae suerte. Huele ligeramente a azufre. |
+| **20** | Uno de tus antepasados hizo daño a una **bruja del musgo**, la cual maldijo su linaje. Tu rostro hace que los espejos se rompan en pedazos. Has notado que los fragmentos a veces pueden revelar ilusiones. |
 
+## Presagios
 
-## Omens
-
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **d20** | **Presagio** |
+| :------- | :------- |
+| **1** | Las aguas, otrora ricas y vivificantes, de un río se han vuelto negras y pútridas, contaminando la tierra y enfermando a quienes beben de ellas. Un anciano de la aldea señala una profanación reciente como la causa, pero la mayoría no hace caso de sus palabras. |
+| **2** | Parece que este año el invierno ha llegado demasiado rápido, las heladas y la nieve han hecho su aparición mucho antes de lo esperado. Se habla de un patrón en la escarcha que se forma en las ventanas, los estanques y las grietas del suelo. Casi parece un mapa. |
+| **3** | Una niebla espesa y antinatural ha comenzado a invadir una antigua floresta sagrada. Se dice que es obra de un gran espíritu residente, enfadado por la deforestación cercana. |
+| **4** | El cielo nocturno se vuelve más oscuro cada noche, como si las estrellas desaparecieran una tras otra. Los rumores sobre criaturas infernales que capturan a los granjeros y los arrastran hacia las Raíces corren como la pólvora. Los ancianos del pueblo creen que ambas cosas están relacionadas. |
+| **5** | Los pájaros cantores del Bosque han caído en un extraño silencio últimamente. Los cazadores afirman que se ha visto una figura espectral vagando por el Bosque, mirando con nostalgia a todo aquel que se encuentra. |
+| **6** | Han aparecido extrañas piedras con forma de lágrima en toda la región, lo que ha provocado una especie de “fiebre del oro” entre joyeros y ladrones. Los lugareños creen que son las lágrimas de la propia tierra, que lloran por una gran tragedia que está por venir. |
+| **7** | Diferentes plagas se agrupan mordisqueando los bordes de los sueños y los granjeros hablan de un fuerte zumbido que emana de las profundidades del Bosque. Dicen que el sonido se está acercando. |
+| **8** | Hay un pueblo conocido por su imponente “Árbol Madre”, del que se dice que guarda los secretos del lugar en sus ramas. Recientemente, ha comenzado a sangrar savia roja, lo que preocupa a los ancianos. |
+| **9** | La luna se torna de un profundo color carmesí, bañando la noche con una inquietante luz roja como la sangre. Algunos dicen que anuncia una época de caos y conflictos, a medida que se diluyen los límites entre el Bosque y el reino de los mortales. |
+| **10** | Han aparecido grietas extrañas en el cielo nocturno, revelando un torbellino de luz y color. Algunos dicen que la división entre los reinos está en su punto más débil en siglos y temen lo que pueda surgir del otro lado. |
+| **11** | Una flor que florece de noche y se creía extinta está brotando por todo el Bosque. Su aroma es embriagador, pero también provoca pesadillas muy vívidas. |
+| **12** | El ganado local se ha vuelto cada vez más inquieto y difícil de controlar. Un viejo pastor dice que se debe a un aullido inquietante que emana del Bosque cada luna llena. |
+| **13** | Enjambres de insectos huyen del Bosque en masa, destruyendo las estructuras de madera a su paso. El sonido de sus alas tararea una melodía familiar mientras pasan por encima, como si fuera una canción infantil olvidada. |
+| **14** | Los cazadores hablan de una maldición que recae sobre quien mate a cualquier animal que tenga un mechón de pelaje blanco: poco después de hacerlo, son encontrados muertos en sus casas. Cada día hay menos criaturas para cazar. |
+| **15** | La gente dice que se oye una risa débil resonando en los pozos de toda la ciudad, y que por la noche esos ecos se transforman en sollozos. |
+| **16** | Las constelaciones han comenzado a cambiar lentamente en el cielo nocturno, formando patrones desconocidos que han desconcertado a los astrónomos y a los eruditos. Incluso los animales parecen perturbados. |
+| **17** | Un árbol antiguo, en el corazón de un pueblo soñoliento, se secó y murió de repente, a pesar de no mostrar signos de enfermedad. Después de cortar su tronco, se encontró una mano ensangrentada en su interior. |
+| **18** | Las estatuas llevan meses llorando sangre y los vientres de la aldea permanecen estériles desde entonces. La única excepción ha sido el nacimiento de un niño, al que se llevaron unos ancianos muertos de miedo. |
+| **19** | La fauna local se comporta de forma extraña, mostrando una agresividad exacerbada o huyendo del área por completo. Los cazadores hablan de una figura sombría que deambula por el Bosque, atrayendo a los animales. |
+| **20** | Las ciudades fronterizas se han vuelto tumultuosas en las últimas semanas, después de varios relatos sobre una figura vestida de rojo que aparece en los sueños de los niños, pronunciando la misma advertencia: se acerca un fuego, y lo consumirá todo. |

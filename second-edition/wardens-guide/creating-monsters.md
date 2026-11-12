@@ -2,7 +2,7 @@
 title: Creating Monsters
 layout: default
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda edición
 ---
 
 # Creating Monsters

@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: Orífice
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Aurifex
+# Orífice
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> Eres un artesano de lo arcano, un forjador de las fuerzas sutiles. En el crisol de tu taller, las leyes que rigen este mundo se deforman para adaptarse a tus necesidades.
 
-## Names
+## Nombres
 
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Linterna
+- Lata de aceite (6 usos)
+- Cuchillo de aguja (1d6)
+- Guante de protección (_Insignificante_)
 
-## What went horribly wrong? Roll 1d6:
+## ¿Qué experimento salió mal? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| **1** | Hubo una explosión y perdiste el sentido del olfato. Bueno, casi: puedes olfatear el oro como un cerdo las trufas. Tienes una **lata de rapé** (6 usos) para recuperar tu carencia. Úsala todos los días o te quedarás _Exhausto_. |
+| **2** | Has desmaterializado a una querida mascota. Ahora te sigue a todas partes, invisible pero siempre presente. Aunque ella no puede interactuar en el reino físico, tú puedes percibir a través de sus sentidos (añade una **Fatiga** tras cada uso). La mascota sigue órdenes básicas. |
+| **3** | Fuiste expuesto a un suero de la verdad de acción prolongada cuyos efectos aún no han desaparecido. El trastorno tiene sus ventajas: tampoco puedes repetir las mentiras que has oído. |
+| **4** | Eras experto en la creación de oro falso, que era casi tan bueno como el real. Al final, descubrieron tu treta y tuviste que huir a toda prisa. Tienes un **lingote de metal** pesado y **oro en polvo** (3 usos). |
+| **5** | Tu receta alquímica funcionó, pero un rival robó el borrador de tu escrito antes de que se pudieran confirmar tus afirmaciones. Tienes un prototipo de **trabuco** (d12, _Estallido_, _Voluminoso_) que tarda un turno en recargarse. Deseas cobrar venganza. |
+| **6** | Ridiculizado por descubrir cómo convertir el oro en plomo, eres un hazmerreír. Tienes una botella de **disolvente universal** (2 usos) que disuelve todo lo que toca en sus partes constituyentes. |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## ¿Qué maravilla alquímica es el producto de tu última genialidad? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| **1** | **Gomina pirofórica** | Líquido verde pegajoso que se incendia al contacto con el aire y arde durante 8 horas. No puede extinguirse (1 uso). |
+| **2** | **Esfera explosiva** | Una bola de hierro del tamaño de una cabeza, llena de polvo explosivo que estalla al impactar (d12, _Estallido_, _Voluminosa_, 1 uso). |
+| **3** | **Aqua vitae** | Purifica cualquier líquido, convirtiéndolo en agua pura. Beberla cura 1d6 de FUE (1 uso). |
+| **4** | **Piedra imitadora** | Captura una frase corta que puede repetir posteriormente. |
+| **5** | **Polvo chispeante** | Se enciende fácil y rápidamente. Útil para encender fuego o como artefacto incendiario (3 usos). |
+| **6** | **Homúnculo** | Una réplica de arcilla en miniatura de ti mismo que sigue todas tus órdenes. Odia estar vinculado a ti y se queja amargamente siempre que puede. Cualquier daño infligido al homúnculo, te afecta a ti. PG 3, FUE 4, DES 13, VOL 5. |

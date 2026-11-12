@@ -2,7 +2,7 @@
 layout: default
 title: Converting Monsters
 parent: Tools
-grand_parent: Second Edition
+grand_parent: Segunda edición
 redirect_from: /tools/converting-monsters/
 ---
 

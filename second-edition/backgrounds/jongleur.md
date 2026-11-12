@@ -1,46 +1,46 @@
 ---
-title: Jongleur
+title: Juglar
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Jongleur
+# Juglar
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> ¿Qué inspira más al alma que una canción, una estrofas y una buena actuación? ¿Por qué practicar durante años para dominar lo arcano cuando ya tienes la verdadera magia dentro de ti?
 
-## Names
+## Nombres
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Disfraz
+- Instrumento sencillo (flauta, laúd, etc.)
+- Jubón de la suerte (+1 de Armadura)
+- Honda (1d6)
 
-## What happened at your final performance? Roll 1d6:
+## ¿Qué pasó en tu última actuación? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+| **1** | A pesar de tu preparación para realizar actos peligrosos, un actor murió y te culparon. Tienes un **estoque** corto (1d6) y usas una identidad falsa. |
+| **2** | Al público le encantó tu melodía pegadiza sobre un noble y sus fracasos amorosos. Tienes un **Libro de Hechizos** (Leer mentes) y una orden de arresto. Leer mentes: Puedes oír los pensamientos superficiales de las criaturas cercanas. Utilizarlo prolongadamente puede hacer que el lector confunda los pensamientos de los demás con los suyos propios. |
+| **3** | Tu composición inaugural redujo a la audiencia a un amasijo balbuceante, murmurando sobre brillantes criaturas descendiendo del cielo nocturno. Más tarde, notaste que las notas se parecían a constelaciones estelares. Tienes un **libro de astronomía** y muchas preguntas. |
+| **4** | Te burlaste de un olvidado dios de las mentiras y te maldijo por ello. Solo puedes hablar en rima perfecta. Irónicamente, esto te ha hecho más popular entre los tuyos. Tienes un **tesauro** (20 mo), si lo pierdes quedas _Exhausto_. |
+| **5** | Un accidente en el escenario te dejó una cicatriz. La multitud aplaudió, pensando que era parte del acto. Tienes una **cota de malla de atrezo** gastada (Armadura 1), una cicatriz memorable y miedo a los aplausos. |
+| **6** | Tus dotes como titiritero solo eran superadas por tus capacidades como imitador. Eras tan bueno que te marcaron como brujo (literalmente) y te desterraron. Tienes una **marioneta inquietante** y un **cráneo de conejo** (_Insignificante_) que te protege contra encantamientos de control. |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## ¿De que baratija no te puedes desprender? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+| **1** | **Grilletes falsos** | Cómodos y de aspecto realista. Solo tú conoces el truco para liberarte de ellos. |
+| **2** | **Teatrillo de bolsillo** | Incluye juego de marionetas pequeñas y un escenario plegable. Bueno para distracciones rápidas. |
+| **3** | **Violín espectral** | Un violín gris oscuro cuya inquietante melodía es replicada por un gemelo distante. |
+| **4** | **Librillo de cuentos trágicos** | Está prohibido en círculos respetables, este libro se vuelve menos obsceno y más estremecedor hacia el final. Valor: 100 mo. |
+| **5** | **Máscara de mitos** | Una máscara de yeso que permite tomar la apariencia de un monstruo. Cuando te la quites, ganas una Fatiga. |
+| **6** | **Vidrio recuperable** | Una copa de vino que se puede romper varias veces y se reconstruye después de 24 horas. Hace un ruido muy fuerte. |

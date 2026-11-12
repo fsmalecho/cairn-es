@@ -1,46 +1,46 @@
 ---
-title: Fieldwarden
+title: Campero
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Fieldwarden
+# Campero
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> Protector de la cosecha, defensor contra plagas, ladrones y bestias. Un puesto de gran honor, siempre y cuando no te maten antes. Muchos camperos no logran morir de viejos.
 
-## Names
+## Nombres
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
- 
-## What got the better of you? Roll 1d6:
+- 3d6 monedas de oro
+- Ración (3 usos)
+- Antorcha (3 usos)
+- Brigantina (Armadura 1, _Voluminosa_)
+- Honda (1d6)
+- Hacha de mano (1d6)
+- Repelente (Elige el que quieras, tres usos)
 
-| **d6** | **Result** |
+## ¿Qué te superó? Tira 1d6:
+
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| **1** | Una voraz plaga que engullía cultivos y animales por igual. Sin nada que defender, huíste. Tienes un **extracto de semilla de vendaval** (3 usos). Ingerirlo te permite correr cuatro veces más rápido. Después marca en tu Inventario dos casillas de **Fatiga**. |
+| **2** | Un espíritu de la cosecha, enfurecido por un mal tributo. Los incendios lo consumieron casi todo; sin embargo, pudiste reunir una bolsa de **semillas explosivas** (1d8, _Estallido_, 4 usos). |
+| **3** | Un demonio cornudo y dentudo que casi acaba contigo. Tienes un **cuchillo de hueso** manchado de sangre (1d6). Si haces **Daño Crítico**, en tu próximo ataque se potencia por entrar en contacto con la sangre. |
+| **4** | La Marchitez, un tipo de podredumbre del tallo proveniente de las Raíces. Tienes una muestra de **cultivo enfermo** (6 usos) que pudre cualquier planta que toque. |
+| **5** | Unos lobos, o eso creías. Ahora eres un hombre lobo [PG 8, FUE 15, DES 14, garras (1d6+1d6), mordedura (1d8)]. Tu VOL sigue siendo la misma. Puedes convertirte a voluntad (una vez al día), pero debes hacer una Salvación de VOL para volver a tu estado natural. Cualquiera que quede vivo a causa de tus ataques debe realizar una Salvación de VOL para evitar contagiarse. |
+| **6** | Unos ladrones de cosechas. No todos sobrevivieron, pero te superaban en número. Comienzas con +1d4 PG y un **bracamarte** (1d8). |
 
-## What tool saved your life? Roll 1d6:
+## ¿Qué herramienta entre tus pertenencias te salvó la vida? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **Látigo de vid sangrienta** | 1d8 de daño. Al hacer Daño Crítico, desangra al objetivo, obteniendo la cualidad _Estallido_ en su siguiente ataque. |
+| **2** | **Estruendizador** | Una herramienta de manivela que emite un fuerte ruido capaz de asustar a la mayoría de criaturas. |
+| **3** | **Vara solar** | Proporciona calor y luz durante una hora (1 uso). **Recarga**: Dejar a pleno sol durante un día entero. |
+| **4** | **Lazo de raíces** | Cuando se arroja, ata al suelo a una criatura tan grande como un lobo durante un breve periodo de tiempo. |
+| **5** | **Flautilla verde** | Una pequeña flauta que encanta a las plantas, facilitando el paso por zonas con mucha vegetación. |
+| **6** | **Banda siempre floreciente** | Un collar adornado con flores que nunca se marchitan. En caso de Daño Crítico, las flores se deshacen en polvo, pero actúas como si tu Salvación hubiera tenido éxito (sigues perdiendo los puntos de FUE). |

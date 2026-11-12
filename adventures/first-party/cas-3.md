@@ -34,7 +34,7 @@ _14th of Sunrise, 7728._
 _Two weeks into the dry season, during Bartermoot. Warm & Breezy._
 - Ask Each PC: **Why are you attending the Bartermoot? What are you hoping to find here?**
 
-This adventure is structured as a forestcrawl. Refer to the relevant exploration procedures found in the [Warden’s Guide](/second-edition/wardens-guide/wilderness-exploration/) (pg. 56) and the [Player’s Guide](/second-edition/players-guide/procedures/#wilderness-exploration) (pg. 70).
+This adventure is structured as a forestcrawl. Refer to the relevant exploration procedures found in the [Warden’s Guide](/second-edition/wardens-guide/wilderness-exploration/) (pg. 56) and the [Player’s Guide](/second-edition/players-guide/procedures/#exploración-en-entornos-salvajes) (pg. 70).
 
 **The Holiday of Bartermoot**
 

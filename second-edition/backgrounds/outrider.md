@@ -1,47 +1,46 @@
 ---
-title: Outrider
+title: Jinete Escolta
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Outrider
+# Jinete Escolta
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> Tus ingresos provienen de proteger caravanas, rastrear fugitivos o prestar tu espada a una causa. Has sido una salvadora, una verduga, una heroína e incluso una villana. Sin embargo, tu camino no es solitario: siempre tendrás a tu caballo a tu lado.
 
-## Names
+## Nombres
 
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
+Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Espada larga (1d10, _Voluminosa_)
+- Jubón de cuero (1 de Armadura)
+- Ballesta (1d8, _Voluminosa_)
+- Catalejo
 
-## What personal code or principle do you uphold? Roll 1d6:
+## ¿Qué principio rige tu vida? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+| **1** | **No derramar sangre inocente**: ningún testigo sufrirá daño bajo tu presencia. Tienes una **rodela hecha a la medida** (+1 de Armadura). Mientras la sostengas, no puedes ser movido por nadie siempre que ambos pies estén plantados en suelo firme. |
+| **2** | **Venerar las herramientas de la muerte**. Las armas deben ser respetadas y cuidadas meticulosamente. Tienes una **piedra de afilar de hueso de dragón**. Tras un ritual de afilado de media hora, los ataques con el arma tienen Ventaja hasta que provocan daño a FUE. |
+| **3** | **Hasta la muerte, siempre**: Nunca retrocedes en una pelea, sin importar tus probabilidades. Toma un **silbato de la muerte**, 1 carga. Su sonido asusta a todos los que lo oyen (Salvación de VOL o huyen). **Recarga**: Captura el último aliento de un guerrero moribundo. |
+| **4** | **Respeta a los muertos**: La muerte es un viaje que todos emprendemos y merece respeto. Tienes 30 mo adicionales. Siempre colocas dos piezas de oro en los párpados de un enemigo abatido. De alguna manera, siempre vuelven a ti. |
+| **5** | **Cumple tu palabra**: Tu palabra lo es todo. Una vez que has aceptado un trabajo, no lo sueltas hasta que lo terminas. Tienes un **palo de cuentas** viejo. Una vez que un juramento se marque en su superficie, el palo se endurece (1d8) hasta que se complete. El palo se romperá en dos si el juramento es roto. |
+| **6** | **Paga tus deudas siempre**: devuelves lo que debes, ya sea en monedas o en especies. No esperas menos de los demás. Tienes un **libro de registros negruzco**, y tira otra vez en la tabla de **Vínculos**. |
 
+## ¿De qué raza es tu caballo? Tira 1d6:
 
-## What breed is your horse? Roll 1d6:
-
-| **d6** | **Mount** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
+| **1** | **Destrero pesado** | Una bestia hecha para la guerra, una criatura imponente. PG 8, Armadura 1, Pezuñas (1d10+1d10), +2 espacios. |
+| **2** | **Dandi patinegro** | Resistente y adaptable. Los terrenos Duros o Peligrosos se vuelven un paso más fáciles. PG 6, +4 espacios. |
+| **3** | **Colmillo firme** | Impresionantemente fuerte, capaz de transportar cargas pesadas. PG 4, +6 espacios (solo +2 espacios si transporta a dos personas). |
+| **4** | **Cob Pío** | Inteligente, puede entender órdenes sencillas e incluso tiene instinto para el peligro. PG 6, +4 espacios. |
+| **5** | **Pálido de Linden** | Altamente entrenado y ágil, puede realizar maniobras complejas en momentos de necesidad (no requiere Salvación de DES para huir). +3 espacios. |
+| **6** | **Niebla errante** | Salvaje pero muy rápido, incluso en terrenos duros. Montura ligera. PG 4, +2 espacios. |

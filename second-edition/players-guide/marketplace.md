@@ -1,124 +1,123 @@
 ---
 layout: default
-title: Marketplace
-parent: Player's Guide
-grand_parent: Second Edition
+title: Mercado
+parent: Guía del jugador
+grand_parent: Segunda edición
 ---
 
-# Marketplace 
+# Mercado
 
-> All prices are in gold pieces  
+> Todos los precios están en monedas de oro (mo)
 
-## Armor
+## Armaduras
 
-| **Armor** | **Cost** |
+| **Armadura** | **Coste** |
 | :--- | :--- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| Escudo (+1 de Armadura) | 10 |
+| Yelmo (+1 de Armadura) | 10 |
+| Gambesón (+1 de Armadura) | 15 |
+| Brigantina (Armadura 1, _Voluminosa_) | 20 |
+| Cota de malla (Armadura 2, _Voluminosa_) | 40 |
+| Armadura completa (Armadura 3, _Voluminosa_) | 60 |
 
-## Weapons
+## Armas
 
-| **Weapon** | **Cost** |
+| **Arma** | **Coste** |
 | :--- | :--- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+| Daga, garrote, hoz, báculo, etc. (1d6 de daño) | 5 |
+| Lanza, espada, maza, hacha, mangual, etc. (1d8 de daño) | 10 |
+| Alabarda, martillo de guerra, espada larga, etc. (1d10 de daño, _Voluminosa_) | 20 |
+| Honda (1d6 de daño) | 5 |
+| Arco (1d6 de daño, _Voluminoso_) | 20 |
+| Ballesta (1d8 de daño, _Voluminosa_) | 30 |
 
-## Transport
+## Transportes
 
-| **Transport** | **Cost** |
+| **Transporte** | **Coste** |
 | :--- | :--- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+| Carreta (+4 espacios, _Voluminosa_) | 30 |
+| Carromato (+8 espacios, lento) | 200 |
+| Caballo (+4 espacios) | 75 |
+| Mula (+6 espacios, lenta) | 30 |
+| Coste asiento en carruaje | 5 |
+| Coste pasaje de embarcación | 10 |
 
-## Upkeep & Recovery
+## Comida y recuperación
 
-| **Service** | **Cost** |
+| **Servicio** | **Coste** |
 | :--- | :--- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+| Alojamiento y comida (por noche) | 10 |
+| Habitación privada y comida (para 4, por noche) | 35 |
+| Establo y alimento (por noche) | 5 |
+| Servicios de curación médica | 50 |
+| Raciones (3 usos) | 10 |
+| Alimento para animales (3 usos, _Voluminoso_) | 5 |
 
-## Hirelings (per day)
+## Seguidores (costo por día en mo)
 
-| **Hireling** | **Cost** |
+| **Seguidor** | **Coste** |
 | :--- | :--- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+| Alquimista | 30 |
+| Cerrajero | 10 |
+| Domador de bestias | 5 |
+| Erudito | 20 |
+| Escolta | 10 |
+| Escolta veterano | 20 |
+| Guía local | 5 |
+| Herrero | 15 |
+| Marinero | 5 |
+| Navegante | 10 |
+| Rastreador | 5 |
+| Trampero | 5 |
 
+## Artículos
 
-## Gear
-
-| **Gear** | **Cost** |
+| **Artículo** | **Coste** |
 | :--- | :--- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+| Abrojos | 10 |
+| Aceite de fuego | 10 |
+| Antitoxina | 20 |
+| Antorcha (3 usos) | 5 |
+| Artículos de baño (jabón, perfume, etc.) | 5 |
+| Baraja de cartas | 5 |
+| Botas de escalada | 15 |
+| Brújula | 75 |
+| Cadena (3 metros) | 10 |
+| Caña de pescar | 10 |
+| Catalejo | 40 |
+| Cincel | 5 |
+| Cofre | 25 |
+| Comodidades para exteriores (manta, hamaca, etc.) | 10 |
+| Contenedores (saco, odre de agua/vino, etc.) | 10 |
+| Costurero | 20 |
+| Disfraces (pintura facial, disfraz, etc.) | 15 |
+| Equipo de expedición (picas de escalada, polea, etc.) | 10 |
+| Espejo | 5 |
+| Gancho de agarre | 25 |
+| Guantes (_Insignificante_) | 20 |
+| Herramientas comunes (martillo, pala, etc.) | 10 |
+| Herramientas de ladrón (ganzúas, lima de metal, etc.) | 25 |
+| Herramientas especializadas (tinta, etc.) | 20 |
+| Instrumentos complejos (gaita, violín, etc.) | 50 |
+| Instrumentos sencillos (flauta, laúd, etc.) | 10 |
+| Juegos (cartas de tarot, dados, etc.) | 10 |
+| Lata de aceite (6 usos) | 10 |
+| Libro | 50 |
+| Linterna | 10 |
+| Odre para bucear | 5 |
+| Pergamino (3 usos) | 10 |
+| Pipa para fumar (_Insignificante_) | 15 |
+| Red | 10 |
+| Repelente (acónito, artemisa, etc.) | 10 |
+| Ropa para entornos salvajes (poncho, abrigo, etc.) (_Insignificante_) | 15 |
+| Sedante | 30 |
+| Silbato (_Insignificante_) | 15 |
+| Soga (7.5 metros) | 5 |
+| Sustancias comunes (pegamento, grasa, etc.) | 10 |
+| Tienda de acampada (para 2, _Voluminosa_) | 20 |
+| Tiza (_Insignificante_) | 1 |
+| Trampa (1d6 de daño a FUE) | 35 |
+| Utensilios para cocinar (ollas, cucharones, etc.) | 10 |
+| Vara (3 metros) | 5 |
+| Varita de zahorí | 15 |
+| Vendajes (3 usos) | 30 |

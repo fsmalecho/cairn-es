@@ -1,45 +1,45 @@
 ---
-title: Marchguard
+title: Guardia Fronterizo
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Marchguard
+# Guardia Fronterizo
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> Hiciste un juramento de sangre para patrullar la frontera y proteger el reino. Una vez hecho, el juramento no puede romperse. La Guardia siempre encuentra a los suyos.
 
-## Names
+## Nombres
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Linterna
+- Lata de aceite (6 usos)
+- Espada larga (1d10, _Voluminosa_)
+- Armadura de cuero hervido (Armadura 1)
 
-## Why did you take the Oath?
+## ¿Por qué decidiste hacer el juramento?
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+| **1** | Tu familia tiene una larga tradición de servicio, y fuiste entrenado desde pequeño en cómo sobrevivir en la naturaleza. Al realizar la acción de supervivencia Forrajear, tu rendimiento aumenta en un paso (por ejemplo, de 1d4 a 1d6). |
+| **2** | Como convicto, hacer el juramento es un medio de evitar tu castigo. Tienes un juego de **ganzúas** y una llave (_Insignificante_) de un refugio seguro. |
+| **3** | Siendo noble de nacimiento, te uniste para escapar de los problemas familiares. Tienes una **lona de plumas de ganso** (para dos personas), la robaste al irte de casa. |
+| **4** | Cuando tu familia lo perdió todo, hiciste el juramento para evitar convertirte en una carga. Tienes **raciones** extra (3 usos) y **cuchillos arrojadizos** (1d6). |
+| **5** | Tu vida fue salvada por un miembro de la Guardia Fronteriza, y eso te inspiró a unirte a sus filas. Tienes una **trampa de lazo** y un **cuaderno de bocetos** lleno de dibujos detallados. |
+| **6** | Estabas en un lugar oscuro y decidiste que tu vida necesitaba un poco de disciplina. Aún no estás seguro de que haya sido una elección correcta. Tienes un **abrigo de tela encerada** y **papel para mapear**. |
 
-## What do you carry as proof of your Oath?
+## ¿Qué portas como recordatorio de tu juramento?
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+| **1** | **Insignia imponente** | Insignia de metal de honor de la Guardia. Puede abrirte puertas, pero siempre deja un rastro (_Insignificante_). |
+| **2** | **Brújula de juramento** | No apunta al norte, sino al integrante de la Guardia más cercano. También, te permite saber cuándo están cerca de tu posición. |
+| **3** | **Piedras de atracción** | Dos piedras negras como el azabache. Cuando se separan, siempre ruedan una hacia la otra. |
+| **4** | **Vial de fuego** | Altamente alcohólico, pero extrañamente delicioso. Cuando se lanza, crea un muro de llamas de 3 metros de altura que se apaga después de unos minutos (1 uso). |
+| **5** | **Anillo de dolor** | Toca a una criatura herida para transferirte sus heridas. (Intercambia sus puntos de FUE perdida con la tuya). **Recarga**: Usa el anillo mientras estás completamente sano. Perderás 1 punto de FUE permanentemente (_Insignificante_). |
+| **6** | **Desdicha cazadora** | Flechas de fuerte olor (3 usos). El aroma es lo suficientemente potente como para rastrearlas fácilmente. |

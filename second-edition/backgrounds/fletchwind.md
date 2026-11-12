@@ -1,46 +1,46 @@
 ---
-title: Fletchwind
+title: Flechaveloz
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Fletchwind
+# Flechaveloz
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring naught but a warning, singing the silent promise of a quick death. 
+> Atacas desde lejos, pero eso no te convierte en cobarde. Haces música, la canción de la cuerda de tu arco no es más que una advertencia, entonando la silenciosa promesa de una muerte rápida.
 
-## Names
+## Nombres
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Arco (consulta las siguientes tablas)
+- Cuchillo dentado (1d6)
+- Armadura de cuero hervido (Armadura 1)
+- Bálsamo de esencia de corazón (restaura 1d4 FUE, 1 uso)
 
-## How did you earn your bow? Roll 1d6:
+## ¿Cómo aprendiste a usar tu arco? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **En combate**. Si eres el primero en atacar, tu arco gana la cualidad _Estallido_ en la primera ronda. |
+| **2** | **Practicando cetrería**. Tienes un halcón [PG 3, FUE 5, DES 16, VOL 4, garras (1d6+1d6), mordedura (1d8)]. Solo come animales vivos. |
+| **3** | **Cazando**. Al realizar la acción de supervivencia Forrajear, tu capacidad para conseguir **raciones** aumenta en un paso (por ejemplo, 1d4 se convierte en 1d6). |
+| **4** | **Participando en torneos de tiro**. Realizas el ataque con Ventaja si tu objetivo está inmóvil. |
+| **5** | **Entrenando**. Si eres el primero en atacar, los ataques contra ti se realizan con Desventaja hasta que recibas daño en FUE. |
+| **6** | **Viajando**. Cuando realizas la acción Viajar, tu experiencia reduce la posibilidad de perderte en un paso (p. ej. 4 en 6 se convierte en 3 en 6). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## ¿De qué tipo de madera está hecho tu arco? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **Tejo del oeste** (1d6, _Voluminoso_). Puede blandirse como arma contundente (1d6). Ruidoso. |
+| **2** | **Roble albar** (1d8, _Voluminoso_). Si al golpear con él a un objetivo causas **Daño Crítico**, arrancas algo del blanco. |
+| **3** | **Pino piñonero** (1d6, _Voluminoso_). Segrega una carga de savia pegajosa al día, puede ser utilizada (1 uso). La savia es altamente explosiva. |
+| **4** | **Fresno blanco** (1d6, _Voluminoso_). Puede ser usando como escudo en combate cuerpo a cuerpo (+1 de Armadura). |
+| **5** | **Bambú estriado** (1d6). Plegable, sólo ocupa un espacio en el Inventario (pero se usa con las dos manos). |
+| **6** | **Olmo montano** (1d6, voluminoso). Protege al portador de venenos y toxinas siempre que lo lleve en la mano. |

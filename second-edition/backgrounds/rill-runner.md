@@ -1,46 +1,46 @@
 ---
-title: Rill Runner
+title: Surcador de Arroyos
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Rill Runner
+# Surcador de Arroyos
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Arroyos Cantas las historias que se cuentan sobre los ríos y lagos, tus talentos calman a amigos y elementos por igual. Has visto más que la mayoría, pero nunca parece ser suficiente para ti.
 
-## Names
+## Nombres
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## Equipo inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3d6 monedas de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Botas de agua
+- Brigantina (Armadura 1, _Voluminosa_)
+- Brújula
+- Daga (1d6)
 
-## What songs are you best known for? Roll 1d6:
+## ¿Cuál es tu canción más celebrada? Tira 1d6:
 
-| **d6** | **Result** |
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+| **1** | El paso doble del remendador. Narra las graciosas peripecias de un viajero que debe entregar unos regalos. Tienes un **silbato de caña**. Cualquiera que esté al alcance de su silbido, debe superar una tirada de VOL si pretende realizar una acción violenta. |
+| **2** | La sílfide y su amante. Narra la atrevida historia del espíritu y su amor perdido. Tienes un **nudo de brisa** (3 cargas). Crea una fuerte brisa a voluntad. **Recarga**: átalo a un mástil durante una tormenta. |
+| **3** | La devoción de Harper. Narra la triste y corta historia de un músico que se enamoró de una estrella. Tienes un **laúd azul cielo**. Revela las constelaciones, sin importar el clima que haga. |
+| **4** | La carpa pescadora. Una célebre canción sobre una enorme carpa que siempre parece escabullirse. Tienes un carrete de **hilo de pesca** (5 usos). Cada zambullida en el río garantiza una captura, aunque puede que lo que captures no sea agradable. |
+| **5** | Melodía de la corriente plateada. Es como una canción de cuna pero sin letra alguna, imita el sonido de la corriente del agua. Tienes un **flauta de piedra** que puede calmar las aguas de casi cualquier río. |
+| **6** | El zorzal y el prado. Narra una historia melancólica cantada a dos voces. Tienes una **pluma de ave para escribir** (1 uso, _Insignificante_). Un mapa dibujado con esta pluma revela el curso más rápido entre dos puntos. |
 
-## What pays your way across the land? Roll 1d6:
+## ¿Qué ha costeado tus travesías? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+| **1** | **Actuaciones** | Las actuaciones en tabernas siempre dan alojamiento y comida. ¡A veces incluso te dan propinas! Tienes 1d6 mo extra. |
+| **2** | **Escolta** | Acompañas a aquellos que tienen miedo de viajar solos. Tienes un estoque (1d8). |
+| **3** | **Comercio** | Compras barato y vendes caro, siempre ganando lo suficiente para sobrevivir. Tienes un objeto por valor de 20 mo o menos en la Tabla de Mercado. |
+| **4** | **Transporte** | Entregas paquetes “frágiles” por todo el país. Tienes al menos un contacto en toda ciudad importante. |
+| **5** | **Amigo de marineros** | Navegando sobre aguas turbulentas y contra vientos peligrosos, siempre te aseguras de que el barco llegue a su destino. Tu pasaje siempre es gratuito. |
+| **6** | **Guía** | Guías a caravanas y viajeros a través de tierras fluviales. Tienes un mapa relevante para tu próximo viaje. |

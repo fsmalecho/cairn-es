@@ -1,48 +1,46 @@
 ---
-title: Cutpurse
+title: Cortabolsas
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Trasfondos
+grand_parent: Segunda edición
 ---
 
-# Cutpurse
+# Cortabolsas
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> Habitas el espacio gris entre los que tienen poder y los que no. Encuentras oportunidades donde otros solo ven caos. Con dedos ágiles, despojas tanto al mercader más rico como al guardia más humilde.
 
-## Names
+## Nombres
 
 Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+## Equipo inicial
 
-## What was your last big job? Roll 1d6:
+- 3d6 moneda de oro
+- Raciones (3 usos)
+- Antorcha (3 usos)
+- Dagas gemelas (1d6+1d6, _Voluminosa_)
+- Armadura de cuero acolchado (Armadura 1)
+- Ganzúas
+- Ropa negra (_Insignificante_)
 
-| **d6** | **Result** |
+## ¿Dónde fue tu última gran hazaña? Tira 1d6:
+
+| **d6** | **Resultado** |
 | :--- | :--- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** | En la casa de verano de un noble. El lugar estaba lleno de vino caro (+20 mo) pero nada más de valor. Tienes un **cortacadenas**. |
+| **2** | En un banco. (¡Te atraparon con las manos en la masa!). Tienes una marca solo visible a la luz del fuego, y cualquiera que vea la marca puede pedirte una cerveza. Tienes **alambre retráctil**. |
+| **3** | En un almacén gremial. Tienes una **escalera** (_Voluminosa_, 3 metros) y **polvo cegador** (1 uso). |
+| **4** | En el negocio de un prestamista. Alguien se te adelantó, pero dejó abandonado un pergamino de Ojo arcano (_Insignificante_). Ojo arcano: puedes ver a través de un globo ocular mágico flotante que vuela a tu ordenes. |
+| **5** | En el cuartel del alguacil. Lograste huir, pero dejaste atrás a algunos amigos. Tienes una **cuerda de seda resistente** y una sensación de mareo. |
+| **6** | En una universidad. Te vieron, pero no fueron tras de ti. Aún no sabes por qué. Tienes **bombas de humo** (3 usos). |
 
-## What helps you steal? Roll 1d6:
+## ¿Con qué te ayudas en tus robos? Tira 1d6:
 
-| **d6** | **Item** | **Description** |
+| **d6** | **Objeto** | **Descripción** |
 | :--- | :--- | :--- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
-
-
+| **1** | **Anillo felino** | 2 cargas. Puedes trepar por las paredes y caer con seguridad. **Recarga**: Pon el anillo en la cola de un gato callejero. |
+| **2** | **Dedo dorado** | 1 carga. Un dedal que imita cualquier llave común. **Recarga**: Deposítalo con al menos de 100 mo durante una noche. |
+| **3** | **Vidrio esclarecedor** | 3 usos. Un monóculo que te permite ver a través de paredes u otros obstáculos. Se rompe tras su tercer uso. |
+| **4** | **Silbato encantador** | 1 carga. Los oyentes escuchan una voz encantadora y familiar en la distancia que no pueden resistirse a seguir. **Recarga**: Tu personaje pierde un recuerdo apreciado (Describe cuál es). |
+| **5** | **Velo del errante** | 1 carga. Úsalo para mezclarte entre la multitud y parecer un simple indigente. **Recarga**: Dona todas las ganancias del día a los pobres (_Insignificante_). |
+| **6** | **Peonza invertida** | 1 uso. Al girar, el tiempo retrocede 30 segundos. Todo el mundo recuerda lo acontecido. |
